@@ -29,8 +29,3 @@ If you open this repository in the [github.dev web-based editor
 We suggest you accept this.
 
 Note: the reading activity contains content from Wikipedia, which is available under the [Creative Commons ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
-
-
----
-
-
