@@ -2,7 +2,7 @@ Schrijf een functie `echo`, die één argument aanvaardt en dat telkens teruggee
 
 ## Voorbeeld
 
-```pycon
+```console?lang=python&prompt=>>>
 >>> echo("Hello world!")
 "Hello world!"
 >>> echo(5)
