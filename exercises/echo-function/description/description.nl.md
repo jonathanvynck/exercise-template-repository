@@ -1,4 +1,4 @@
-Schrijf een functie `echo`, die één argument aanvaardt en dat telkens teruggeeft als returnwaarde.
+Schrijf nu een functie `echo`, die één argument aanvaardt en dat telkens teruggeeft als returnwaarde.
 
 ## Voorbeeld
 
